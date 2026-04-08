@@ -10,7 +10,11 @@
 # Precompiled Headers
 *.gch
 *.pch
-
+ray_tracer.slnx
+ray_tracer.vcxproj
+ray_tracer.vcxproj.filters
+ray_tracer.vcxproj.user
+ray_tracer/
 # Linker files
 *.ilk
 
